@@ -1,2 +1,6 @@
-# devdataprod014Assignment
-Developing Data Products Course Project
+# Developing Data Products Course Project
+
+##Content:
+- server.R 
+- ui.R
+- README.md
